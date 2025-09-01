@@ -36666,12 +36666,12 @@ s=this.f
 s.H$=r
 s.E$=0
 this.aE()},
-M(a){var s,r=this,q=null,p=t.w,o=A.bo(a,q,p).w,n=A.bo(a,q,p).w,m=A.aAJ(q,q,new A.u3("assets/images/logo_ccg_alpha.png",q,q)),l=A.bo(a,q,p).w
-l=A.eb(A.qn(r.e,"Email",B.xb,q,!1,new A.afx(r),B.lC,q,new A.afy(r)),q,l.a.a*0.9)
+M(a){var s,r=this,q=null,p=t.w,o=A.bo(a,q,p).w,n=A.aAJ(q,q,new A.u3("assets/images/logo_ccg_alpha.png",q,q)),m=A.bo(a,q,p).w
+m=A.eb(A.qn(r.e,"Email",B.xb,q,!1,new A.afx(r),B.lC,q,new A.afy(r)),q,m.a.a*0.9)
 s=A.bo(a,q,p).w
 s=A.eb(A.qn(r.f,"Password",B.xc,q,r.x,q,B.lD,A.ake(A.akd(r.w),new A.afz(r),q),new A.afA(r)),q,s.a.a*0.9)
 p=A.bo(a,q,p).w
-p=A.b([new A.vW(m,n.a.a*0.5,o.a.b*0.5,B.yv,q),l,B.cm,s,B.h2,A.eb(A.JM(B.I9,r.gT6(),A.a8k(q,q,B.cM,q,q,q,3,q,q,B.k,q,q,q,q,new A.cB(A.kq(60),B.o),q,q,q,q)),q,p.a.a*0.5),B.cm,A.JM(B.PL,new A.afB(a),q),B.h2],t.af)
+p=A.b([new A.vW(n,500,o.a.b*0.5,B.yv,q),m,B.cm,s,B.h2,A.eb(A.JM(B.I9,r.gT6(),A.a8k(q,q,B.cM,q,q,q,3,q,q,B.k,q,q,q,q,new A.cB(A.kq(60),B.o),q,q,q,q)),q,p.a.a*0.5),B.cm,A.JM(B.PL,new A.afB(a),q),B.h2],t.af)
 o=r.y
 if(o!=null)p.push(A.fb(o,q,q,q,A.ef(q,q,B.d.p(o,"successful")?B.dY:B.GZ,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q))
 return A.aq7(A.aq6(A.aqg(A.aoo(A.kt(A.uG(p,B.bJ,B.cL),q,q),r.r),B.l7),!0))},
@@ -77131,7 +77131,7 @@ B.yz=new A.dc(0.5,B.eu,B.A6,B.Hz,10)
 B.En=A.b(s([B.yz]),t.sq)
 B.bc=new A.Ee(0,"rectangle")
 B.yu=new A.e7(null,null,null,B.k_,B.En,null,B.bc)
-B.yv=new A.TL(1,"contain")
+B.yv=new A.TL(2,"cover")
 B.dh=new A.ui(0,"tight")
 B.yw=new A.ui(1,"max")
 B.k3=new A.ui(5,"strut")
