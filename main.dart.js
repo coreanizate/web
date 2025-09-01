@@ -37689,7 +37689,7 @@ n=A.cT(A.qR(r.e,"Email",B.xL,q,!1,new A.ahF(r),B.m_,q,new A.ahG(r)),q,n.a.a*0.9)
 s=A.bf(a,q,p).w
 s=A.cT(A.qR(r.f,"Password",B.xM,q,r.x,q,B.m0,A.amB(q,A.amA(r.w),q,q,new A.ahH(r),q),new A.ahI(r)),q,s.a.a*0.9)
 p=A.bf(a,q,p).w
-p=A.a([o,B.el,n,B.bT,s,B.el,A.cT(A.rI(B.M2,r.gUx(),A.a9Y(q,q,B.rv,q,q,q,3,q,q,B.k,q,q,q,q,new A.cw(A.kG(60),B.q),q,q,q,q)),q,p.a.a*0.5),B.bT,A.rI(B.Uz,new A.ahJ(a),q),B.xn,A.rI(B.Ux,new A.ahK(r),q),B.el],t.R)
+p=A.a([o,B.el,n,B.bT,s,B.el,A.cT(A.rI(B.M2,r.gUx(),A.a9Y(q,q,B.rv,q,q,q,3,q,q,B.k,q,q,q,q,new A.cw(A.kG(60),B.q),q,q,q,q)),q,p.a.a*0.5),B.bT,A.rI(B.UA,new A.ahJ(a),q),B.xn,A.rI(B.Ux,new A.ahK(r),q),B.el],t.R)
 o=r.y
 if(o!=null)p.push(A.dY(o,q,q,q,A.e9(q,q,B.d.p(o,"successful")?B.cP:B.cQ,q,q,q,q,q,q,q,q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q))
 return A.ane(A.a7y(!0,A.ani(A.aqS(A.jg(A.pY(p,B.b4,B.b7,B.bz),q,q),r.r),B.lu),!0))},
@@ -37833,14 +37833,14 @@ r=A.ato(A.pY(A.a([r,A.dY("# 1 min\xfascula",k,k,k,A.e9(k,k,l.CW?B.cP:B.cQ,k,k,k,
 p=A.dY("# 1 n\xfamero",k,k,k,A.e9(k,k,l.cx?B.cP:B.cQ,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)
 r=A.anc(A.a([r,A.ato(A.pY(A.a([p,A.dY("# M\xednimo 6 car\xe1cteres",k,k,k,A.e9(k,k,l.db?B.cP:B.cQ,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)],q),B.bu,B.b7,B.bz),!0)],q),B.bu,B.rj,B.bz)
 p=A.bf(a,k,j).w
-p=A.cT(A.qR(l.w,"Nombres y Apellidos",B.xN,k,!1,new A.aig(l),B.Dp,k,new A.aih(l)),k,p.a.a*0.9)
+p=A.cT(A.qR(l.w,"Nombres y Apellidos (Completos)",B.xN,k,!1,new A.aig(l),B.Dp,k,new A.aih(l)),k,p.a.a*0.9)
 o=A.bf(a,k,j).w
 o=A.cT(A.qR(l.x,"Apodo (Nickname)",B.xN,15,!1,new A.aii(l),B.Dn,k,new A.aij(l)),k,o.a.a*0.9)
 n=A.bf(a,k,j).w
 n=A.cT(A.qR(l.y,"Tel\xe9fono (WhatsApp)",B.Qj,k,!1,new A.aik(l),B.Do,k,new A.ail(l)),k,n.a.a*0.9)
 j=A.bf(a,k,j).w
 m=A.a9Y(k,k,B.rv,k,k,k,3,k,k,B.k,k,k,k,k,new A.cw(A.kG(60),B.q),k,k,k,k)
-q=A.a([i,B.el,h,B.bT,s,B.bT,r,B.bT,p,B.bT,o,B.bT,n,B.el,A.cT(A.rI(new A.cJ(B.lv,A.dY("SEND",k,k,k,B.xQ,B.ep,k),k),new A.aid(l),m),k,j.a.a*0.5),B.bT],q)
+q=A.a([i,B.el,h,B.bT,s,B.bT,r,B.bT,p,B.bT,o,B.bT,n,B.el,A.cT(A.rI(new A.cJ(B.lv,A.dY("Enviar",k,k,k,B.xQ,B.ep,k),k),new A.aid(l),m),k,j.a.a*0.5),B.bT],q)
 j=l.ay
 if(j!=null)q.push(A.dY(j,k,k,k,A.e9(k,k,B.d.p(j,"successful")?B.cP:B.cQ,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k))
 return A.ane(A.a7y(!0,A.ani(A.aqS(A.jg(A.pY(q,B.b4,B.b7,B.bz),k,k),l.z),B.lu),!0))}}
@@ -38046,7 +38046,7 @@ A.arS(p,A.a3J(new A.adr(),null,t.z),new A.ads())
 return A.D(null,r)}})
 return A.E($async$rS,r)},
 M(a){var s=null
-return A.ane(A.ani(A.jg(A.pY(A.a([A.cT(s,20,s),A.nn(s,new A.yh(this.gts().a.c.a.a,-1,400,!1,s),B.ai,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.adn(),s,s,s,s,s,s),A.cT(s,20,s),A.dY(this.f,s,s,s,B.RS,s,s),B.xn,A.rI(B.Uy,new A.ado(this),s)],t.R),B.b4,B.ri,B.bz),s,s),s))}}
+return A.ane(A.ani(A.jg(A.pY(A.a([A.cT(s,20,s),A.nn(s,new A.yh(this.gts().a.c.a.a,-1,400,!1,s),B.ai,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.adn(),s,s,s,s,s,s),A.cT(s,20,s),A.dY(this.f,s,s,s,B.RS,s,s),B.xn,A.rI(B.Uz,new A.ado(this),s)],t.R),B.b4,B.ri,B.bz),s,s),s))}}
 A.adq.prototype={
 $1(a){var s,r=a.b
 if(r.c!=null){s=t.a.a(A.atv(r.Pu(),a.a))
@@ -81907,8 +81907,8 @@ B.M_=new A.It(0,"portrait")
 B.M0=new A.It(1,"landscape")
 B.M1=new A.xX(null)
 B.xQ=new A.k(!0,B.k,null,null,null,null,16,B.lU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UA=new A.iO("SIGN IN",null,B.xQ,B.ep,null,null,null,null,null)
-B.M2=new A.cJ(B.lv,B.UA,null)
+B.Uy=new A.iO("ENTRAR",null,B.xQ,B.ep,null,null,null,null,null)
+B.M2=new A.cJ(B.lv,B.Uy,null)
 B.bm=new A.Iy(0,"fill")
 B.b_=new A.Iy(1,"stroke")
 B.M3=new A.lr(1/0)
@@ -82578,8 +82578,8 @@ B.U8=new A.k(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Tc=new A.k(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Uv=new A.d4(B.Tq,B.R8,B.S3,B.TJ,B.QS,B.QR,B.Qr,B.Ta,B.TX,B.QT,B.Rj,B.T3,B.QE,B.U8,B.Tc)
 B.Ux=new A.iO("Recuperar contrase\xf1a!",null,null,null,null,null,null,null,null)
-B.Uy=new A.iO("SALIR",null,null,null,null,null,null,null,null)
-B.Uz=new A.iO("No tiene una cuenta? Crea una!",null,null,null,null,null,null,null,null)
+B.Uz=new A.iO("SALIR",null,null,null,null,null,null,null,null)
+B.UA=new A.iO("No tiene una cuenta? Crea una!",null,null,null,null,null,null,null,null)
 B.XT=new A.aaE(0,"system")
 B.LK=new A.h(0.05,0)
 B.LL=new A.h(0.133333,0.06)
